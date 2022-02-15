@@ -1,0 +1,32 @@
+eingaben:
+
+/* zum prüfen der Punkte: 
+/* /punkte
+
+/* um testdaten zu laden
+y
+
+/* zeigt dass Trumpf bedient werden muss, und man abwerfen kann wenn man nicht bedienen kann
+/* als test: statt, Unter,Rot falsch bedienende Karte wählen
+Unter,Eichel
+Unter,Rot
+Sieben,Gruen
+
+
+/* Spieler 2 Kann mit Trumpf stechen
+/* ermittelt sieger -> Spieler 2 beginnt nächste Runde
+Ass,Schellen
+Unter,Rot
+Sieben,Schellen
+
+
+Zehn,Gruen
+Neun,Gruen
+Acht,Gruen
+
+/* Ab hier zufällige Eingaben nach belieben
+
+
+/* Am Ende
+/* ermitteln der Punkte und des Siegers (der mit den wenigsten Punkten)
+/* Vergleich der Endrangliste mit Punkten in den Stichen
